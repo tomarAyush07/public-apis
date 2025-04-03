@@ -96,6 +96,18 @@ The Public APIs repository is manually curated by community members like you and
 ### Animals
 API | Description | Auth | HTTPS | CORS 
 |:---|:---|:---|:---|:---|
+| [AdoptAPet](https://www.adoptapet.com/public/apis/pet_list.html) | Resource to help get pets adopted | `apiKey` | Yes | Yes |  
+| [Dog CEO](https://dog.ceo/dog-api/) | Get random pictures of dogs | No | Yes | Yes |  
+| [Cat Facts](https://catfact.ninja/) | Provides random cat facts | No | Yes | Yes |  
+| [Official Joke API](https://official-joke-api.appspot.com/) | Fetch random jokes | No | Yes | Yes |  
+| [OpenWeather](https://openweathermap.org/api) | Weather data for locations worldwide | `apiKey` | Yes | Yes |  
+| [ExchangeRate-API](https://www.exchangerate-api.com/) | Get real-time exchange rates | `apiKey` | Yes | Yes |  
+| [OMDb API](https://www.omdbapi.com/) | Fetch movie details | `apiKey` | Yes | Yes |  
+| [Public Holidays](https://date.nager.at/Api) | Get worldwide public holidays | No | Yes | Yes |  
+| [NASA API](https://api.nasa.gov/) | Space-related data from NASA | `apiKey` | Yes | Yes |  
+| [PokéAPI](https://pokeapi.co/) | Pokémon information API | No | Yes | Yes |  
+| [CoinGecko](https://www.coingecko.com/en/api) | Cryptocurrency data | No | Yes | Yes |  
+| [NewsAPI](https://newsapi.org/) | Get the latest news articles | `apiKey` | Yes | Yes |  
 | [AdoptAPet](https://www.adoptapet.com/public/apis/pet_list.html) | Resource to help get pets adopted | `apiKey` | Yes | Yes |
 | [Axolotl](https://theaxolotlapi.netlify.app/) | Collection of axolotl pictures and facts | No | Yes | No |
 | [Cat Facts](https://alexwohlbruck.github.io/cat-facts/) | Daily cat facts | No | Yes | No | |
@@ -131,6 +143,17 @@ API | Description | Auth | HTTPS | CORS
 ### Anime
 API | Description | Auth | HTTPS | CORS |
 |:---|:---|:---|:---|:---|
+| [Jikan](https://jikan.moe/) | Unofficial MyAnimeList API for anime, manga, and user data | No | Yes | Yes |  
+| [AniList](https://anilist.gitbook.io/anilist-apiv2-docs/) | Get anime, manga, and character details | `OAuth` | Yes | Yes |  
+| [Kitsu](https://kitsu.docs.apiary.io/) | Anime and manga discovery platform API | `OAuth` | Yes | Yes |  
+| [AnimeChan](https://animechan.xyz/) | Get random anime quotes | No | Yes | Yes |  
+| [Trace.moe](https://soruly.github.io/trace.moe-api/#/) | Identify anime scenes from images | No | Yes | Yes |  
+| [Waifu.pics](https://waifu.pics/docs) | Generate anime-style images (SFW & NSFW) | No | Yes | Yes |  
+| [Shikimori](https://shikimori.one/api/doc) | Anime, manga, and character database API | `OAuth` | Yes | Yes |  
+| [MangaDex](https://api.mangadex.org/docs/) | Access manga details and chapters | No | Yes | Yes |  
+| [Danbooru](https://danbooru.donmai.us/wiki_pages/help:api) | Search and fetch anime-style images | `apiKey` | Yes | Yes |  
+| [Waifu.im](https://waifu.im/docs/) | Fetch high-quality waifu images | No | Yes | Yes |  
+| [OpenAniDB](https://wiki.anidb.net/w/API) | Retrieve anime metadata from AniDB | `apiKey` | Yes | Yes | 
 | [AniAPI](https://aniapi.com/docs/) | Anime discovery, streaming & syncing with trackers | `OAuth` | Yes | Yes |
 | [AniDB](https://wiki.anidb.net/HTTP_API_Definition) | Anime Database | `apiKey` | No | Unknown |
 | [AniList](https://github.com/AniList/ApiV2-GraphQL-Docs) | Anime discovery & tracking | `OAuth` | Yes | Unknown |
